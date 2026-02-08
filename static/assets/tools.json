@@ -6678,5 +6678,31 @@
             "CS"
         ],
         "layeredStandards": []
-    }
+    },
+	{
+    "name": "TwinSimulate",
+    "license": "commercial",
+    "url": "https://twinsimulate.com/",
+    "logo": "twinsimulate.png",
+    "vendor": "Vista 1 Labs",
+    "vendorURL": "https://twinsimulate.com/",
+    "description": "Digital twin platform for high-performance simulation and code generation for over 200+ target hardware. Supports image processing, cosimulation, bridges to reuse python, julia,c/c++ codes.",
+    "features": [],
+    "platforms": [
+        "Windows",
+        "Linux"
+    ],
+    "interfaces": [
+        "GUI",
+        "CLI",
+    ],
+    "fmiVersions": [
+        "2.0",
+        "3.0"
+    ],
+    "fmuExport": [],
+    "fmuImport": [
+        "CS"
+    ]
+}
 ]
